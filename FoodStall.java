@@ -16,7 +16,7 @@ class FoodStall
             e.printStackTrace();
         }
         System.out.println(foodItem + " is ready for "+custName);
-        System.out.println("");
+        System.out.println();
     }
 }
 class custOrder implements Runnable
